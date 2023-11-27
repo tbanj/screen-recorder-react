@@ -22,10 +22,7 @@ const Navbar = () => (
         Follow @olashubomicode
       </GitHubButton>
     </h2>
-    <a href="https://shina-code.netlify.app">
-      {/* <img src="https://ishanchhabra.com/logo.svg" /> */}
-      More in portfolio
-    </a>
+    <a href="https://azeez-coder.netlify.app">More in portfolio</a>
   </nav>
 );
 

@@ -72,7 +72,8 @@ const App = () => {
       </div>
 
       <footer>
-        crafted with ❣️ by <a href="https://ishanchhabra.com">Ishan Chhabra</a>
+        crafted with ❣️ by{" "}
+        <a href="https://ishanchhabra.com">Olashubomi Azeez</a>
       </footer>
     </div>
   );
