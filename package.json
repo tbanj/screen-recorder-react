@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build --remote personal2",
+    "deploy": "gh-pages -b gh-pages -d build --remote personal2",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
