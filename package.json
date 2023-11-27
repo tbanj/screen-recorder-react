@@ -1,5 +1,5 @@
 {
-  "homepage": "https://olashubomicode.github.io/screen-recorder-react",
+  "homepage": "https://code2adebayo.github.io/screen-recorder-react",
   "name": "screen-recorder-react",
   "version": "0.1.2",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build --remote personal2",
+    "deploy": "gh-pages -b gh-pages -d build --remote personal1",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
