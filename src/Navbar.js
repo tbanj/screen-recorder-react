@@ -22,7 +22,7 @@ const Navbar = () => (
         Follow @tbanj
       </GitHubButton>
     </h2>
-    <a href="https://shina-code.netlify.app">More in portfolio</a>
+    <a href="https://temitope-port.netlify.app">More in portfolio</a>
   </nav>
 );
 
