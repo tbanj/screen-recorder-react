@@ -4,22 +4,22 @@ import GitHubButton from "react-github-btn";
 const Navbar = () => (
   <nav>
     <h2>
-      <a href="https://github.com/code2adebayo/screen-recorder-react">
+      <a href="https://github.com/tbanj/screen-recorder-react">
         use-screen-recorder
       </a>
       <GitHubButton
-        href="https://github.com/code2adebayo/screen-recorder-react"
+        href="https://github.com/tbanj/screen-recorder-react"
         data-show-count="true"
-        aria-label="Star code2adebayo/screen-recorder-react on GitHub"
+        aria-label="Star tbanj/screen-recorder-react on GitHub"
       >
         Star
       </GitHubButton>
       <GitHubButton
-        href="https://github.com/code2adebayo"
+        href="https://github.com/tbanj"
         data-show-count="true"
-        aria-label="Follow @code2adebayo on GitHub"
+        aria-label="Follow @tbanj on GitHub"
       >
-        Follow @code2adebayo
+        Follow @tbanj
       </GitHubButton>
     </h2>
     <a href="https://shina-code.netlify.app">More in portfolio</a>

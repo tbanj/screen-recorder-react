@@ -1,5 +1,5 @@
 {
-  "homepage": "https://code2adebayo.github.io/screen-recorder-react",
+  "homepage": "https://tbanj.github.io/screen-recorder-react",
   "name": "screen-recorder-react",
   "version": "0.1.2",
   "private": true,
@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run -d build --remote personal1",
     "deploy": "gh-pages -b gh-pages -d build --remote personal1",
     "start": "react-scripts start",
     "build": "react-scripts build",
