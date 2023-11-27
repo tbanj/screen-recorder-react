@@ -73,7 +73,7 @@ const App = () => {
 
       <footer>
         crafted with ❣️ by{" "}
-        <a href="https://ishanchhabra.com">Olashubomi Azeez</a>
+        <a href="https://shina-code.netlify.app">Shina Adebayo</a>
       </footer>
     </div>
   );
