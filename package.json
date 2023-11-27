@@ -15,8 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run -d build --remote personal1",
-    "deploy": "gh-pages -b gh-pages -d build --remote personal1",
+    "predeploy": "npm run -d build --remote origin",
+    "deploy": "gh-pages -b gh-pages -d build --remote origin",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
